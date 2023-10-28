@@ -1,5 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 from collections import defaultdict
 class Graph:
 
@@ -34,5 +32,4 @@ if __name__ == '__main__':
 	print("Following is Breadth First Traversal"
 		" (starting from vertex 2)")
 	g.BFS(2)
-
 
